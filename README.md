@@ -257,21 +257,4 @@ OK
 
 ---
 
-## Convention de commits
-
-Ce projet respecte la convention [Conventional Commits](https://www.conventionalcommits.org/) :
-
-```
-feat: add medicament list endpoint with pagination
-feat: create sale with automatic stock deduction
-feat: add stock alert endpoint
-fix: correct stock restoration on sale cancellation
-docs: add swagger schemas for all endpoints
-refactor: extract validation to serializer layer
-chore: add docker-compose and dockerfiles
-chore: add fixtures with initial test data
-```
-
----
-
 *Développé par HEBBAJ SIF-EDDINE — Test technique SMARTHOLOL v1.0*
