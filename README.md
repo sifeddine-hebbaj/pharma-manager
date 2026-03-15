@@ -196,31 +196,31 @@ pharma-manager/
 ## Captures d'écran
 
 ### Tableau de bord
-![Tableau de bord](docs/dashboard.png)
+![Tableau de bord](docs/Screenshot_15-3-2026_2719_localhost.jpeg)
 *Vue d'ensemble avec indicateurs clés et alertes stock.*
 
 ### Médicaments
-![Liste des médicaments](docs/medicaments.png)
+![Liste des médicaments](docs/Screenshot_15-3-2026_2742_localhost.jpeg)
 *Interface de gestion des médicaments avec filtres, recherche et actions (modifier / archiver).* 
 
 ### Ventes
-![Historique des ventes](docs/ventes.png)
+![Historique des ventes](docs/Screenshot_15-3-2026_2827_localhost.jpeg)
 *Historique des transactions avec total TTC, statut et actions de détail/annulation.*
 
 ### Formulaire création / modification de médicament
-![Formulaire medicament](docs/medicament-form.png)
+![Formulaire medicament](docs/Screenshot_15-3-2026_289_localhost.jpeg)
 *Modalité de création ou mise à jour d'un médicament.*
 
 ### Catégories
-![Gestion des catégories](docs/categories.png)
+![Gestion des catégories](docs/Screenshot_15-3-2026_2840_localhost.jpeg)
 *Gestion des catégories avec compteur du nombre de médicaments par catégorie.*
 
 ### Documentation API (Swagger)
-![Swagger UI](docs/swagger.png)
+![Swagger UI](docs/Screenshot_15-3-2026_2641_localhost.jpeg)
 *Interface Swagger pour explorer et tester l'API (authentification JWT possible).* 
 
 ### Administration Django
-![Administration Django](docs/django-admin.png)
+![Administration Django](docs/Screenshot_15-3-2026_23117_localhost.jpeg)
 *Page d'administration Django avec gestion des catégories, médicaments et ventes (requiert connexion superuser).* 
 
 ---
